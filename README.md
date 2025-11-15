@@ -1,2 +1,3 @@
 # study-amharic
-A comprehensive resource to learn the beautiful language
+
+A comprehensive resource to learn the beautiful language.
