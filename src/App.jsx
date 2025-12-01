@@ -10,7 +10,6 @@ function App() {
   return (
     <div className="app-container">
       <header className="navbar">
-        <div className="nav-logo">StudyAmharic</div>
         <nav className="nav-links">
           <NavLink to="/" end className="nav-link">
             Home
@@ -39,10 +38,6 @@ function App() {
           <Route path="/about" element={<AboutPage />} />
         </Routes>
       </main>
-
-      <footer className="footer">
-        © {new Date().getFullYear()} StudyAmharic. All rights reserved.
-      </footer>
     </div>
   )
 }
